@@ -1,1 +1,7 @@
-
+{
+"Title" : "New bug",
+"Discription" : "New bug was appeared",
+"Exspected result" : "The app opened",
+"Actual result" : "The app not opened",
+"Priority" : "High"
+}
